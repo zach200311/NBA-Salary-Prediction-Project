@@ -1,1 +1,1 @@
-# NBA-Salary-Prediction-Project
+# NBA Salary Prediction Project
